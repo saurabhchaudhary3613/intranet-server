@@ -1,4 +1,4 @@
-Trader Desktop Server
+Intranet Server
 =====================
 
 Setup
