@@ -22,14 +22,16 @@ const intranetData = {
             'Variable Insurance Portfolios',
             'Closed End Funds',
             'Institutional Trust',
-            '529 College Planning'
+            'Product Presentations',
+            'Prospectuses',
+            'Product profile',
+            'Product snapshot'
         ],
         "productResources": [
-            'Factsheets',
-            'Lipper & Morningstar Ratings',
-            'Competitor Profiles',
-            'Coverage Maps',
-            'Global Product Blog'
+            'Morningstar hypo tool',
+            'Morningstar Direct Reoprt portal',
+            'Portfolio Holding Disclosure Form',
+            'Static data'
         ]
     },
     "teams": {
